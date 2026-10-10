@@ -18,7 +18,7 @@
 
 ## 收录了什么
 
-- **ArtCraft 七件套**（storytold 出品，Rust 重写，早期 Alpha，尝鲜优先）
+- **ArtCraft 七件套**（storytold 出品的创意软件套件，含 PhotoCraft 等七个独立应用，Rust 重写，早期 Alpha，尝鲜优先）
 - **9 个成熟替代品**：GIMP、Inkscape、DaVinci Resolve、Kdenlive、darktable、Audacity、Blender、Penpot、Scribus
 - 每个条目：替代品名 → 一句话介绍 → 支持平台 → 价格 → 一条安装命令 → 官网链接
 
