@@ -1,5 +1,7 @@
 # Adobe 免费替代品一页速查表
 
+[![Stars](https://img.shields.io/github/stars/Ezra-Zhao/adobe-free-alternatives-cheatsheet?style=social)](https://github.com/Ezra-Zhao/adobe-free-alternatives-cheatsheet/stargazers) [![License: MIT](https://img.shields.io/badge/License-MIT-green.svg)](LICENSE) ![Languages](https://img.shields.io/badge/languages-3-blue)
+
 > 📌 本表为公开资料整理，每月更新；欢迎 PR 补充。
 >
 > 🌍 [Español](README.es.md) · [Português](README.pt.md)
