@@ -2,6 +2,9 @@
 
 [![Stars](https://img.shields.io/github/stars/Ezra-Zhao/adobe-free-alternatives-cheatsheet?style=social)](https://github.com/Ezra-Zhao/adobe-free-alternatives-cheatsheet/stargazers) [![License: MIT](https://img.shields.io/badge/License-MIT-green.svg)](LICENSE) ![Languages](https://img.shields.io/badge/languages-3-blue)
 
+Support & more: [GitHub Sponsors](https://github.com/sponsors/Ezra-Zhao) · [Gumroad — templates & workbooks I use](https://ezraflow28.gumroad.com) · [Ko-fi](https://ko-fi.com/ezra777zhao)
+
+
 > 📌 本表为公开资料整理，每月更新；欢迎 PR 补充。
 >
 > 🌍 [Español](README.es.md) · [Português](README.pt.md)
